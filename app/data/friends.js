@@ -1,7 +1,7 @@
 module.exports= [
     {
         "name":"Abdel",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2017/04/ttb.jpg?itok=oLVaGxmS",
         "scores":[
             5,
             1,
@@ -17,7 +17,7 @@ module.exports= [
       },
       {
         "name":"Hani",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2017/04/ttb.jpg?itok=oLVaGxmS",
         "scores":[
             5,
             1,
@@ -33,7 +33,7 @@ module.exports= [
       },
       {
         "name":"Susan",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2017/04/ttb.jpg?itok=oLVaGxmS",
         "scores":[
             1,
             1,
@@ -49,7 +49,7 @@ module.exports= [
       },
       {
         "name":"Mathew",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2017/04/ttb.jpg?itok=oLVaGxmS",
         "scores":[
             5,
             1,
@@ -65,7 +65,7 @@ module.exports= [
       },
       {
         "name":"Madeleine",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2017/04/ttb.jpg?itok=oLVaGxmS",
         "scores":[
             5,
             1,
