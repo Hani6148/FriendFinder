@@ -10,8 +10,8 @@ app.post("/api/friends",function(req,res){
      for (i=0;i<newFriend.scores.length;i++){
        newFriend.scores[i]=parseInt(newFriend.scores[i]);
  }
-     friends.push(newFriend);
-     console.log(friends);
+     
+     
    bestMatch=100;
    matchIndex=0;
    
@@ -26,6 +26,8 @@ app.post("/api/friends",function(req,res){
 
         }
      }
+     friends.push(newFriend);
+     
 
      res.json(friends[matchIndex]);
    
